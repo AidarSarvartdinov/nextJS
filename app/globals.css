@@ -1,0 +1,37 @@
+body {
+  padding: 0 200px;
+  background-image: linear-gradient(black, rgb(26, 26, 26));
+  background-attachment: fixed;
+  color: white;   
+}
+
+a {
+  margin: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.main-text {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.text-part {
+  width: 50%;
+}
+
+.image-part {
+  width: 50%;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.red {
+  color: rgb(237, 4, 4);
+  text-shadow:10px 10px 100px red;
+}
+
+.heading {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-shadow: 0px 0px 70px white;
+  text-align: center;
+}

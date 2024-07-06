@@ -1,0 +1,9 @@
+#mainHome {
+  display: flex;
+  text-align: center;
+  padding-top: 75px;
+}
+
+#mainPhoto {
+  border-radius: 45px;
+}

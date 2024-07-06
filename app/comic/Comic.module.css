@@ -1,0 +1,33 @@
+#comicTitle {
+    text-align: center;
+    font-size: 2em;
+    padding-top: 1em;
+}
+
+#comicImgPart {
+    padding-top: 2em;
+    text-align: center;
+}
+
+
+#comicDatePart {
+    padding-top: 2em;
+    text-align: center;
+    
+}
+
+#comicForm {
+    padding-top: 2em;
+    text-align: center;
+}
+
+#comicHeading {
+    text-align: center;
+    font-size: 2em;
+}
+
+#emailError {
+    color: red;
+    padding-left: 3em;
+    padding-top: 1em;
+}
